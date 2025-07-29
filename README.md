@@ -12,7 +12,7 @@ A minimal yet powerful To-Do List application built with Spring Boot and React.j
 
 🛠️ Tech Stack
 
-Backend:
+🔧 Backend:
 
 Java + Spring Boot
 
@@ -22,7 +22,7 @@ MySQL
 
 Maven
 
-Frontend:
+💻 Frontend:
 
 React.js (Vite or CRA)
 
