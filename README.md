@@ -2,9 +2,7 @@ A minimal yet powerful To-Do List application built with Spring Boot and React.j
 
 ✨ Features-->
 
-📝 Add, edit, delete, and mark tasks as completed
-
-✅ Task completion tracking
+📝 Add, edit and delete tasks
 
 💾 Persistent data with a database (MySQL)
 
