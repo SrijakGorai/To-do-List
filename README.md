@@ -24,7 +24,7 @@ Maven
 
 💻 Frontend:
 
-React.js (Vite or CRA)
+React.js
 
 Axios for API calls
 
